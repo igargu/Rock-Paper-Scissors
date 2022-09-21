@@ -28,7 +28,7 @@ int main() {
 				cout << "\nEnter a valid option\n\n";
 			}
 			else {
-				if (0 > auxOption || auxOption > 3) {
+				if (1 > auxOption || auxOption > 3) {
 					cout << "\nEnter a valid option\n\n";
 				}
 				else {
